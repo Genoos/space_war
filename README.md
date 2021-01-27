@@ -1,5 +1,5 @@
 # space_war
-A simple 2D  MULTIPLAYER space shooting game in python.
+A simple 2D  MULTIPLAYER space shooting game in python(pygame).
 
 
 controls:
